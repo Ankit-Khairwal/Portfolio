@@ -24,7 +24,7 @@ const projects = [
     category: "Full-Stack",
     title: "Crime Protal",
     description:
-      "A full-stack web application that allows users to report crimes and view crime statistics.",
+      "The Crime Management Portal is a comprehensive digital platform designed to streamline crime reporting, investigation, and law enforcement operations. It enables law enforcement agencies, government authorities, and the public to collaborate efficiently in tackling crime and ensuring public safety.",
     stack: [
       { name: "React" },
       { name: "Tailwind.css" },
