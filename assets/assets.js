@@ -96,13 +96,14 @@ export const workData = [
         description: 'Login & Sign up',
         bgImage: '/work-4.png',
     },
+
 ]
 
 export const serviceData = [
     { icon: assets.web_icon, title: 'Crime Portal', description: 'Any person can come and report what happens with him...', link: 'https://crimepetrol.netlify.app/',},
     { icon: assets.mobile_icon, title: 'Talent Pool', description: 'Where user comes and join us to create new project...', link: 'https://rapid-omega.vercel.app/', },
     { icon: assets.ui_icon, title: 'Authentication', description: 'UI/UX design focuses on creating a seamless user experience...', link: 'https://login-lac-two.vercel.app/', },
-    //{ icon: assets.graphics_icon, title: 'Graphics design', description: 'Creative design solutions to enhance visual communication...', link: '' },
+    { icon: assets.graphics_icon, title: 'Stock-Analytics', description: 'Creative design solutions to enhance visual communication...', link: 'https://stockanalytics-iota.vercel.app/login' },
 ]
 
 export const infoList = [
