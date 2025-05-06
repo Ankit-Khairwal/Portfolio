@@ -99,9 +99,9 @@ export const workData = [
 export const serviceData = [
   {
     icon: assets.web_icon,
-    title: "Crime Portal",
-    description: "Any person can come and report what happens with him...",
-    link: "https://crimepetrol.netlify.app/",
+    title: "AI-Interview",
+    description: "Any person can come and test their skills...",
+    link: "https://prep-interview-psi.vercel.app/",
   },
   {
     icon: assets.mobile_icon,
