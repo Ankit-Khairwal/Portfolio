@@ -79,8 +79,8 @@ export const assets = {
 
 export const workData = [
   {
-    title: "Crime Portal",
-    description: "Web Design",
+    title: "Ai-Prep",
+    description: "Interview platform",
     bgImage: "/work-1.png",
   },
 
